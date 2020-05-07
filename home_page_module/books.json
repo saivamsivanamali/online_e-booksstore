@@ -1,0 +1,200 @@
+[
+    {
+        "_id" : 1,
+        "title": "Html and Css in a Week or less",
+         "pageCount": 416,
+        "rating": 4,
+       " publishedDate": "2009-04-01",
+       " authors": "Mr David Cannadine",
+        "genre": "HTML, CSS & RWD",
+        "price": 100, 
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/813RgKL-bZL._AC._SR360,460.jpg"
+    },
+    {
+        "_id": 2,
+        "title": "Pro MernStack",
+        "pageCount": 592,
+        "rating": 5,
+        "publishedDate": "2011-01-14",
+        "authors": "asan Subramanian",
+        "genre": "Full Stack Developer",
+        "price": 150, 
+        "url": "https://m.media-amazon.com/images/I/51vrozt03WL.jpg"
+    },
+    {
+       " _id": 3,
+       " title": "The Html and CSS workshop",
+        "pageCount": 0,
+        "rating": 6,
+        "publishedDate": "2011-06-03",
+        "authors": "Ashlee Vance",
+        "genre": "HTML, CSS & RWD",
+        "price": 200, 
+        "url": "https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838824532-original.png"
+    },
+    {
+        "_id": 4,
+       " title": "The Road to Learn React",
+        "pageCount": 576,
+        "rating": 9,
+        "publishedDate": "2009-02-02",
+        "authors": "Robin Wieruch",
+        "genre": "ReactJS",
+        "price": 250, 
+        "url": "https://m.media-amazon.com/images/I/31apmbgpwkL.jpg"
+    },
+    {
+        "_id": 5,
+        "title": "Learning React",
+        "pageCount": 600,
+        "rating": 2,
+        "publishedDate": "2010-11-15",
+        "authors": "Alex Banks, Eve Porcello",
+        "genre": "ReactJS",
+        "price": 300, 
+        "url": "https://m.media-amazon.com/images/I/41IiBTZOGCL.jpg"
+    },
+    {
+        "_id": 6,
+        "title": "FullStack React",
+        "pageCount": 425,
+        "rating": 6,
+        "publishedDate": "2008-10-01",
+        "authors": ["Anthony Accomazzo, Nate Murray, Ari Lerner"],
+        "genre": "ReactJS",
+        "price": 350, 
+        "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495796544i/32705383._UY2000_SS2000_.jpg"
+    },
+    {
+        "_id": 7,
+        "title":"The Html and CSS basics",
+        "pageCount": 432,
+        "rating": 5,
+        "publishedDate": "2008-12-01",
+        "authors": "Ashlee Vance",
+        "genre": "HTML, CSS & RWD",
+        "price": 400, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81tupHf5z5L.jpg"
+    },
+    {
+        "_id": 8,
+        "title": "React: Up & Running",
+        "pageCount": 265,
+        "rating": 1,
+        "publishedDate": "2010-10-15",
+        "authors": ["Stoyan Stefanov"],
+        "genre": "ReactJS",
+        "price": 450, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81PYNxYc4BL.jpg"
+    },
+    {
+        "_id": 9,
+        "title": "FullStack React",
+        "pageCount": 375,
+        "rating": 3,
+        "publishedDate": "2012-06-04",
+        "authors": "Shama Hoque",
+        "genre": "Full Stack Developer",
+        "price": 500, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51HDRK4FC4L.jpg"
+    },
+    {
+        "_id": 10,
+       " title":  "FullStack Developer",
+        "pageCount": 325,
+        "rating": 10,
+        "publishedDate": "2011-12-12",
+        "authors": ["Chris Northwood"],
+        "genre": "Full Stack Developer",
+        "price": 550, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/41sgpXr+sTL._SX348_BO1,204,203,200_.jpg"
+    },
+    {
+       " _id": 11,
+        "title": "Head First HTML with CSS & XHTML",
+        "pageCount": 592,
+        "rating": 8,
+        "publishedDate": "2008-01-01",
+        "authors": ["Eric Freeman, Elisabeth Freeman"],
+        "genre": "HTML, CSS & RWD",
+        "price": 600, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51Fnp0p8cvL._SX430_BO1,204,203,200_.jpg"
+    },
+    {
+        "_id": 12,
+        "title": "React in Action",
+        "pageCount": 258,
+        "rating": 10,
+        "publishedDate": "2009-11-01",
+        "authors": ["Mark Tielens Thomas"],
+        "genre": "ReactJS",
+        "price": 650, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/71W632wBuWL.jpg"
+    },
+    {
+        "_id": 13,
+        "title": "Mongodb basics",
+        "pageCount": 316,
+        "rating": 7,
+        "publishedDate": "1997-07-01",
+        "authors": ["Ashlee Vance"],
+        "genre": "MongoDB",
+        "price": 700, 
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51XparJ4P%2BL._SX342_QL70_ML2_.jpg"
+    },
+    {
+        "_id": 14,
+        "title": "A Smarter Way to Learn HTML & CSS",
+        "pageCount": 344,
+        "rating": 3,
+        "publishedDate": "2008-12-01",
+        "authors": ["Mark Myers"],
+        "genre": "HTML, CSS & RWD",
+        "price": 750, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/51RgT-XfErL._SX348_BO1,204,203,200_.jpg"
+    },
+    {
+        "_id": 15,
+        "title": "You Don't Know JS: Scope & Closures",
+        "pageCount": 550,
+        "rating": 9,
+        "publishedDate": "2010-04-16",
+        "authors": ["Kyle Simpson"],
+        "genre": "JS",
+        "price": 800, 
+        "url" : "https://images-eu.ssl-images-amazon.com/images/I/51f-ZfMU3nL._SX342_QL70_ML2_.jpg "
+    },
+    {
+        "_id": 16,
+        "title": "The Complete Reference  HTML and CSS",
+       "pageCount": 0,
+        "rating": 9,
+        "publishedDate": "2011-12-12",
+        "authors": ["Rob Larsen"],
+        "genre": "HTML, CSS & RWD",
+        "price": 850, 
+        "url": "https://www.freepdf-books.com/doc-images/8275.png"
+    },
+    {
+        "_id": 17,
+       "title": "Node.js 8 the Right Way",
+       " pageCount": 504,
+        "rating": 10,
+        "publishedDate": "1998-06-01",
+        "authors": ["Jim R. Wilson"],
+        "genre": "NodeJS",
+        "price": 900, 
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51f-ZfMU3nL._SX342_QL70_ML2_.jpg"
+    },
+    {
+       " _id": 18,
+        "title": "Beginning Node.js",
+        "pageCount": 550,
+        "rating": 4,
+        "publishedDate":"1999-08-01",
+        "authors": ["Basarat Ali Syed"],
+       " genre": "NodeJS",
+        "price": 950, 
+        "url": "https://images-na.ssl-images-amazon.com/images/I/61alsGT8dpL.jpg"
+    }
+]
